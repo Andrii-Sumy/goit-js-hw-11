@@ -56,3 +56,12 @@
 .info p {
   margin: 4px 8px;
 }
+
+.loader {
+  display: block;
+  margin: 0 auto;
+}
+
+.is-hidden {
+  display: none !important;
+}
